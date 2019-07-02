@@ -1,0 +1,2 @@
+# repoSettingsCheckout
+for test GitHubSettingsVsGitHubCheckoutApiTest
